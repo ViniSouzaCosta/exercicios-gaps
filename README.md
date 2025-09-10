@@ -13,6 +13,9 @@ gantt
     Preparação do Terreno :a2, after a1, 10d
     Fundação da Casa :crit, a3, after a2, 30d
 
+    section Fundação
+    Escavação,Construção de fundação de concreto e impermeabilização :done,a4 after a2, 15d
+
   
 
 ```
