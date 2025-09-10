@@ -15,6 +15,7 @@ gantt
 
     section Fundação
     Escavação,Construção de fundação de concreto e impermeabilização :done,a4, 2025-02-16, 15d
+    Estruturação da casa :
 
   
 
