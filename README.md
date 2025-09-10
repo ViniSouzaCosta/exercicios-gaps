@@ -14,7 +14,7 @@ gantt
     Fundação da Casa :crit, a3, after a2, 30d
 
     section Fundação
-    Escavação,Construção de fundação de concreto e impermeabilização :done,a4 after a2, 15d
+    Escavação,Construção de fundação de concreto e impermeabilização :done,a4, 2025-02-16, 15d
 
   
 
